@@ -24,3 +24,8 @@ O projeto combina as seguintes funcionalidades:
 - Os botões utilizam o pull-up interno do Raspberry Pi Pico.
 - O código inclui tratamento de debounce para os botões.
 - O código utiliza interrupções para os botões, o que permite que o programa execute outras tarefas enquanto aguarda o pressionamento dos botões.
+
+## Videos
+
+- Explicação das principais funcionalidades: [https://youtu.be/juP8_iw_BTo]
+- Funcionamento na Placa BitDogLab: [https://drive.google.com/file/d/1iPnxkonFXl_8CyNEJJSiCKJ1Qq8xjBxu/view?usp=sharing]
